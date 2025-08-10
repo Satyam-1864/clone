@@ -1,0 +1,117 @@
+
+ body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #dee1e4;
+    }
+
+    .sa {
+      background-color: #131921;
+      color: white;
+      padding: 6px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    #sr{
+      width: 50px;
+      height: 50px;
+      /*transition: transform 0.3s;
+      transform: scale(1.1);*/
+    }
+
+    .sat {
+      display: flex;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 28px;
+      font-weight: bold;
+      margin-right: 20px;
+      color: #ff9900;
+      text-decoration: none;
+    }
+
+    .location {
+      font-size: 14px;
+    }
+
+    .location span:first-child {
+      font-weight: bold;
+      margin-right: 4px;
+    }
+
+    .saty {
+      display: flex;
+      align-items: center;
+    }
+
+    .search-container input[type="text"] {
+      padding: 6px 8px;
+      font-size: 14px;
+      width: 300px;
+      border: none;
+      border-radius: 4px 0 0 4px;
+      outline: none;
+    }
+
+    .search-container button {
+      padding: 7px 12px;
+      font-size: 14px;
+      border: none;
+      background-color: #febd69;
+      cursor: pointer;
+      border-radius: 0 4px 4px 0;
+    }
+
+    .nav-links {
+      background-color: #232f3e;
+      color: white;
+      padding: 10px 20px;
+    }
+
+    .nav-links a {
+      color: white;
+      margin-right: 16px;
+      font-size: 14px;
+      text-decoration: none;
+    }
+
+    .nav-links a:hover {
+      text-decoration: underline;
+    }
+     .a{
+      min-height: 100%;
+      max-width: 1500px;
+    }
+    .satyam{
+        display: flex;
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+    }
+    .satya{
+        display:inline-block;
+    }
+    .down{
+        background-color: #131921;
+        padding: 100px 100px;
+    }
+        .so{
+            justify-content: space-between;
+          color: aliceblue;
+          display: inline-block;
+          align-items: center;
+    }
+   
+    .apan{
+        justify-content: space-between;
+        height: 100px;
+        width: 500px;
+        color: rgb(48, 149, 199);
+        text-align: center;
+        background-color: ##131921;
+        
+    }
+   
